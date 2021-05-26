@@ -30,7 +30,7 @@ function setup()
     ball = createSprite(random(20,750),100, 40,40);
     ball.shapeColor = rgb(255,255,255);
     //write code to add velocityX and velocityY
-    ball.setVelocity(-4,5);
+    ball.setVelocity(8,8);
 
 }
 
